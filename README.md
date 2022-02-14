@@ -169,3 +169,25 @@ Advantages
 
 ### The Advantages and Disadvantages of Refactoring VBA Script
 The biggest benefit that occurred because of the refactoring was a decrease in macro run time. The original analysis took approximately .85 seconds to run, whereas our new analysis only took about .20 second. The new code runs 76% faster.Attached below are the screenshots of the run time for each year analyzed using the original code then the refactored code.
+
+![2017_initial_runtime](https://github.com/lgrander/Stock_Analysis/blob/main/2017_initial_runtime.png)
+
+2017_initial_runtime
+
+
+
+![2017_final_runtime](https://github.com/lgrander/Stock_Analysis/blob/main/2017_final_runtime.png)
+
+2017_final_runtime
+
+
+
+![2018_initial_runtime](https://github.com/lgrander/Stock_Analysis/blob/main/2018_initial_runtime.png)
+
+2018_initial_runtime
+
+
+
+![2018_final_runtime](https://github.com/lgrander/Stock_Analysis/blob/main/2018_final_runtime.png)
+
+2018_final_runtime
